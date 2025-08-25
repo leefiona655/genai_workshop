@@ -1,7 +1,7 @@
 ---
 marp: true
 paginate: true
-backgroundImage: url('https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-light-bubble-minimalist-image_986487.jpg')
+backgroundImage: url('https://i.pinimg.com/736x/d3/b7/5c/d3b75c44060e91d296e4e115b719ac06.jpg')
 
 ---
 
