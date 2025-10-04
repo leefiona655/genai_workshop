@@ -35,8 +35,7 @@ backgroundImage: url('https://img.freepik.com/premium-vector/wave-gradient-purpl
 - 推動節水設備、回收再利用。
 
 ### 2.4 供應鏈管理
-- 關注供應商的環境政策與永續認證。
-- 鼓勵綠色採購，降低整體環境衝擊。
+
 
 ---
 
