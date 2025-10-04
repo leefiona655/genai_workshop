@@ -34,7 +34,6 @@ backgroundImage: url('https://img.freepik.com/premium-vector/wave-gradient-purpl
 - 餐飲、飯店等用水量大。
 - 推動節水設備、回收再利用。
 
-### 2.4 供應鏈管理
 
 
 ---
